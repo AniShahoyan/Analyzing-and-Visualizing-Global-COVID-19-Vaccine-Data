@@ -1,2 +1,2 @@
 # Analyzing-and-Visualizing-Global-COVID-19-Vaccine-Data
-A data analysis and visualization project using Python’s Pandas and Matplotlib libraries to study global COVID-19 vaccination progress.
+A data analysis and visualization project using Python’s Pandas and Matplotlib libraries to study global COVID-19 vaccination progress. The dataset analyzed to calculate vaccination rates, identify the top 5 countries by vaccination coverage, and track global daily trends. Visualizations include a bar chart of top vaccination rates, a line graph of global daily vaccinations over time, and a pie chart of total vaccinations by world region.
